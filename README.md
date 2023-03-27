@@ -1,5 +1,5 @@
-# Lab2WEB
-Exercise Lab 2 WEB
+# Lab3_DataBase
+Exercise Lab 2 Data Base
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Muhammad Azizul Dzikri</a> indonesia</h1>
 <h3 align="center">I am a student at Pelita Bangsa University </h3>
@@ -51,7 +51,7 @@ Credit: [dezeeonpub](https://github.com/dezeeonpub)
 
 
 
-#<?php
+<?php
 include_once("koneksi.php");
 // query untuk menampilkan data
 $sql = 'SELECT * FROM data_barang';
@@ -103,7 +103,7 @@ $result = mysqli_query($conn, $sql);
         </div>
     </div>
 </body>
-#</html>
+</html>
 
 
 <img src="Ressult.PNG" alt="Alt text" title="ressult">
