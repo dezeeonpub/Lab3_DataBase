@@ -32,7 +32,7 @@ Credit: [dezeeonpub](https://github.com/dezeeonpub)
 
 
 
-<p style="font-size: 15px;">HASIL PROGRAM</p>
+<p style="font-size: 50px;">HASIL PROGRAM : </p>
 
 
 
