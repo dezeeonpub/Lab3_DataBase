@@ -1,5 +1,5 @@
 # Lab3_DataBase
-Exercise Lab 2 Data Base
+Exercise Lab 3 Data Base
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Muhammad Azizul Dzikri</a> indonesia</h1>
 <h3 align="center">I am a student at Pelita Bangsa University </h3>
@@ -15,6 +15,7 @@ Muhammad Azizul Dzikri</a> indonesia</h1>
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
 
 
 
