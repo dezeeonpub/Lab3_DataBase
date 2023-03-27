@@ -51,7 +51,7 @@ Credit: [dezeeonpub](https://github.com/dezeeonpub)
 
 
 
-<?php
+#<?php
 include_once("koneksi.php");
 // query untuk menampilkan data
 $sql = 'SELECT * FROM data_barang';
@@ -103,7 +103,7 @@ $result = mysqli_query($conn, $sql);
         </div>
     </div>
 </body>
-</html>
+#</html>
 
 
 <img src="Ressult.PNG" alt="Alt text" title="ressult">
