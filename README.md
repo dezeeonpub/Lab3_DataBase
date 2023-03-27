@@ -32,7 +32,18 @@ Credit: [dezeeonpub](https://github.com/dezeeonpub)
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+</head>
+
+<body>
 <p style="font-size: 50px;">HASIL PROGRAM : </p>
+</body>
+
+</html>
+
 
 
 
